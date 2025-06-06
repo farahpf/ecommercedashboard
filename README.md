@@ -38,8 +38,7 @@ Dashboard ini menggunakan **Streamlit** untuk visualisasi interaktif dan memungk
 ### Link Live App
 Akses aplikasi **live dashboard** yang di-deploy menggunakan **Streamlit Cloud** melalui tautan berikut:
 
-[Live Dashboard](https://ecommerce-dashboard-wawioxnt59wmatnlcqcas2.streamlit.app/)
-
+[Live Dashboard]
 ## Fitur Dashboard:
 1. **Filter Berdasarkan Negara Bagian dan Kategori Produk**: 
    - Pengguna dapat memilih negara bagian dan kategori produk untuk melakukan analisis yang lebih mendalam.
